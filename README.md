@@ -11,7 +11,7 @@
 ### 🔗 Connect with me:
 
 <p align="left">
-<a href="" target="_blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="omerfguldu | website" width="40px"/></a>
+<a href="https://omerfguldu.netlify.app" target="_blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="omerfguldu | website" width="40px"/></a>
 <a href="https://linkedin.com/in/omerfguldu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerfguldu | linkedin" height="30" width="40" /></a>
 <a href="mailto:omerfguldu@gmail.com" target="_blank"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="omerfguldu | gmail" width="40"/> </a>
 
