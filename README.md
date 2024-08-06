@@ -1,6 +1,6 @@
 ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 👦🏻 I'm Ömer and I'm 25 years old.
+- 👦🏻 I'm Ömer and I'm 27 years old.
 - 🏠 I live in Istanbul, Turkey.
 - 🎓 I graduated from Selcuk University Computer Engineering Department in June 2022.
 - 🌱 I'm currently learning React.
